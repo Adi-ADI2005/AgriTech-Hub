@@ -7,7 +7,7 @@ The platform also has **Agro AI**, an intelligent chatbot that provides farming 
 Built to make farming decisions easier, smarter, and more efficient.
 
 
-![Alt text](farmtech .png)
+![Alt text](https://github.com/Adi-ADI2005/FarmTech-/blob/f24930532b63dd3113d689388214256a63cc4037/farmtech.png)
 
 
 
