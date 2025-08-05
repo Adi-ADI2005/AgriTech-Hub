@@ -8,7 +8,7 @@ Built to make farming decisions easier, smarter, and more efficient.
 
 
 
-![Farm Tech Screenshot]("farmtech (1).png")
+![Farm Tech Screenshot]("farmtech .png")
 
 
 [Visit Farmtech ](https://farmtech-1-q7uw.onrender.com/)
