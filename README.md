@@ -1,4 +1,4 @@
-# FarmTech
+# AgriTech HUB
 
 Fam Tech is a web application designed to assist farmers with smart agriculture tools.  
 Users can register and log in to access the platform's features.  
