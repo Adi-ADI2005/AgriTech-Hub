@@ -12,7 +12,7 @@ app.secret_key = 'a658914e47696c55b51090d5d0e395798559fa0d181fff9fe8be5281cb2171
 
 # MongoDB connection
 try:
-    uri = "mongodb+srv://FarmTech:<db_password>@cluster0.1v3shkz.mongodb.net/?appName=Cluster0"
+    uri = "mongodb+srv://FarmTech:Aditya%402005@cluster0.1v3shkz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     client = MongoClient(uri)
     db = client['FarmTech']        # Database name
     collection = db['users']       # Collection name
@@ -218,4 +218,5 @@ def ask():
 
 if __name__ == '__main__':       # Ensures this runs only when executed directly
     app.run(debug=True)          # Starts the Flask development server
+
 
